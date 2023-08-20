@@ -1,5 +1,5 @@
 package TestScripts;
 
-public class LoginPage {
+public class LoginPage02 {
 
 }
